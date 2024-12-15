@@ -13,7 +13,7 @@ class Pet:
         print(self.name, "играет с хозяином")
 
           
-human = Human("Али") 
+human = Human("Ваня") 
 pet = Pet("Барсик")
 
 human.say_hello()
